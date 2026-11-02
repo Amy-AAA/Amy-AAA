@@ -85,6 +85,8 @@ Here are some ideas to get you started:
 
 ## 🏆 Certifications
 
+[![dbt Fundamentals Certification](https://camo.githubusercontent.com/d5157a8bdd33c76588edbce65c575551853fea28866bff8c83f27a81f17c3505/68747470733a2f2f6170692e61636372656469626c652e636f6d2f76312f66726f6e74656e642f63726564656e7469616c5f776562736974655f656d6265645f696d6167652f62616467652f313635353131363437)](https://credentials.getdbt.com/dd405df4-9eb6-4417-9a53-c87419fcc09e#acc.AC1IpDmz)
+
 [![Alteryx Designer Core Certification](https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png)](https://www.credly.com/badges/d1e654d5-1e03-4d90-9a0d-ef9b9076f359/public_url)
 
 ---
