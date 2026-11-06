@@ -92,7 +92,7 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/d1e654d5-1e03-4d90-9a0d-ef9b9076f359/public_url">
     <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" height="120">
   </a>
-  <a href="https://www.salesforce.com/trailblazer/m12v9hzqrf7vph4iz2">
+  <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=NrR+FZCr9yKycEt404o6PMq5EErsG32ZzOWKOMM30uRR/lhjTmF7zMTN8q0s2CaT">
     <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Credential Name" height="120">
   </a>
   <!--
